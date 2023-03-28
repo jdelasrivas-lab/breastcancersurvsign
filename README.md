@@ -1,5 +1,5 @@
 # Identification of a gene expression signature associated with Breast Cancer survival and risk that improves clinical genomic platforms
-[Santiago Bueno-Fortes](https://scholar.google.com/scholar?q=author:%22Bueno-Fortes%20Santiago%22), [Alberto Berral-Gonzalez](https://scholar.google.com/scholar?q=author:%22Berral-Gonz%C3%A1lez%20Alberto%22), [José Manuel Sánchez-Santos](https://scholar.google.com/scholar?q=author:%22S%C3%A1nchez-Santos%20Jos%C3%A9%20Manuel%22), [Manuel Martín Merino](https://scholar.google.com/scholar?q=author:%22Merino%20Manuel%20Mart%C3%ADn%22), [Javier De Las Rivas](https://scholar.google.com/scholar?q=author:%22De%20Las%20Rivas%20Javier%22)
+[Santiago Bueno-Fortes](https://scholar.google.com/scholar?q=author:%22Bueno-Fortes%20Santiago%22), [Alberto Berral-Gonzalez](https://scholar.google.com/scholar?q=author:%22Berral-Gonz%C3%A1lez%20Alberto%22), [José Manuel Sánchez-Santos](https://scholar.google.com/scholar?q=author:%22S%C3%A1nchez-Santos%20Jos%C3%A9%20Manuel%22), [Manuel Martin-Merino](https://scholar.google.com/scholar?q=author:%22Merino%20Manuel%20Mart%C3%ADn%22), [Javier De Las Rivas](https://scholar.google.com/scholar?q=author:%22De%20Las%20Rivas%20Javier%22)
 
 _Bioinformatics Advances_, vbad037, [https://doi.org/10.1093/bioadv/vbad037](https://doi.org/10.1093/bioadv/vbad037)
 
