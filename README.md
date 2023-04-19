@@ -15,7 +15,16 @@ Here we present a framework to discover a robust list of gene expression markers
 
 ## Availability
 
-All data integrated and analyzed in this research will be available on this [GitHub](https://github.com/jdelasrivas-lab/breastcancersurvsign), including the R scripts and protocols used for the analyses.
+All data integrated and analyzed in this research will be available on this [GitHub](https://github.com/jdelasrivas-lab/breastcancersurvsign). The data matrixes used in this article are avilable in the [releases section](https://github.com/jdelasrivas-lab/breastcancersurvsign/releases).
+The table containing the results from the analysis is in the [results folder](). All R scripts with the functions and protocols used for the analysis are currently under development and will be available as soon as possible.
+
+## References
+
+Schwender H (2022). _siggenes: Multiple Testing using SAM and Efron's Empirical Bayes Approaches_. R package version 1.72.0.)
+
+Schroeder MS, Culhane AC, Quackenbush J, Haibe-Kains B survcomp: an R/Bioconductor package for performance assessment and comparison of survival models Bioinformatics 27(22): 3206-3208. (2011).
+
+Haibe-Kains B, Desmedt C, Sotiriou C, Bontempi G A comparative study of survival models for breast cancer prognostication on microarray data: does a single gene beat them all? Bioinformatics 24(19): 2200-2208. (2008).
 
 ## Supplementary information
 
