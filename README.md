@@ -22,9 +22,9 @@ The table containing the results from the analysis is in the [results folder](ht
 
 Schwender H (2022). _siggenes: Multiple Testing using SAM and Efron's Empirical Bayes Approaches_. R package version 1.72.0.)
 
-Schroeder MS, Culhane AC, Quackenbush J, Haibe-Kains B survcomp: an R/Bioconductor package for performance assessment and comparison of survival models Bioinformatics 27(22): 3206-3208. (2011).
+Schroeder MS, Culhane AC, Quackenbush J, Haibe-Kains B. survcomp: an R/Bioconductor package for performance assessment and comparison of survival models Bioinformatics 27(22): 3206-3208. (2011).
 
-Haibe-Kains B, Desmedt C, Sotiriou C, Bontempi G A comparative study of survival models for breast cancer prognostication on microarray data: does a single gene beat them all? Bioinformatics 24(19): 2200-2208. (2008).
+Haibe-Kains B, Desmedt C, Sotiriou C, Bontempi G. A comparative study of survival models for breast cancer prognostication on microarray data: does a single gene beat them all? Bioinformatics 24(19): 2200-2208. (2008).
 
 ## Supplementary information
 
