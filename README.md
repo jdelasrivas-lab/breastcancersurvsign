@@ -15,7 +15,7 @@ Here we present a framework to discover a robust list of gene expression markers
 
 ## Availability
 
-All data integrated and analyzed in this work are available at [GitHub](https://github.com/jdelasrivas-lab/breastcancersurvsign). The data matrices used in this article are avilable in the [releases section](https://github.com/jdelasrivas-lab/breastcancersurvsign/releases).
+All data integrated and analyzed in this work are available at this [GitHub](https://github.com/jdelasrivas-lab/breastcancersurvsign). The data matrices used in this article are avilable in the [releases section](https://github.com/jdelasrivas-lab/breastcancersurvsign/releases).
 The tables containing the results from the analysis are in the [results folder](https://github.com/jdelasrivas-lab/breastcancersurvsign/tree/main/results). All R scripts with the functions and protocols used for the analysis are part of a library for R that is under development and will be made available as soon as possible.
 
 ## References
